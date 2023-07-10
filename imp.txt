@@ -1,0 +1,10 @@
+pip install numpy
+
+pip install tensorflow
+
+pip install tensorflow keras
+
+pip install tensorflow keras scikit-learn
+
+pip install tensorflow keras pandas
+
